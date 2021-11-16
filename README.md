@@ -1,5 +1,5 @@
 # Python-FastAPI-with-MySQL
-REST API using Python with the FastAPI framework, with MySQL databases
+REST API using Python and the FastAPI framework, with MySQL databases
 
 # Remember:
 Have your web server (Apache, Nginx) and MySQL database server active, first of all.
